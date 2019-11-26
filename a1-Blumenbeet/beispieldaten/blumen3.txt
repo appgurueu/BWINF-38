@@ -1,0 +1,4 @@
+7
+2
+rot tuerkis 3
+gruen rot 1

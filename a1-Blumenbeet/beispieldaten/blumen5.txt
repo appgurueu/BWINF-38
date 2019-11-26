@@ -1,0 +1,9 @@
+7
+7
+rot tuerkis 3
+rot gruen 1
+rot rosa 3
+blau rosa 2
+gelb orange 1
+gruen orange 1
+blau tuerkis 2

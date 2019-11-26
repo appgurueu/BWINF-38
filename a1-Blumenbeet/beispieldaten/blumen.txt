@@ -1,0 +1,4 @@
+7
+2
+rot blau 3
+rot tuerkis 2

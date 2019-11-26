@@ -1,0 +1,3 @@
+Verteilung1: (2, 4, 7)
+Verteilung2: (3, 5, 7)
+Verteilung3: (80, 64, 32)
